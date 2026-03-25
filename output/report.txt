@@ -1,0 +1,8 @@
+Average: 87,0
+Highest: Eve - 95.0
+
+All students (sorted):
+Eve - 95.0
+Bob - 90.0
+Alice - 85.0
+David - 78.0
